@@ -5,3 +5,6 @@
 - punkt 1
 - punkt 2
 - punkt 3
+
+# zmiana 4
+# zmiana 5
