@@ -1,4 +1,4 @@
-# testowanie merge i rebase
+# testowanie konfliktow
 # *moje-pierwsze-repo*
 ## **utworzone na potrzeby zaliczenia**
 ## *dodanie kolejnego naglowka*
