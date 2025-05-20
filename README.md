@@ -1,4 +1,4 @@
-# testowanie merge i rebase
+# dodanie opisu w galezi MAIN
 # *moje-pierwsze-repo*
 ## **utworzone na potrzeby zaliczenia**
 ## *dodanie kolejnego naglowka*
